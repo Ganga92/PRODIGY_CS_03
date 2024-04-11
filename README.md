@@ -38,6 +38,3 @@ You can customize the script by adjusting the following parameters:
 - `blocklist`: List of common passwords or words to block.
 - `company_name`: Name of the company to avoid in passwords.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
